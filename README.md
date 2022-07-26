@@ -1,4 +1,4 @@
-# Invite-token
+# invite-token
 offco 프로젝트 3주차
 
 ## Short Account
